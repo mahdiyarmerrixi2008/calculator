@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application89</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="muliti_icon">todo</string>
+    <string name="divide_icon">TODO</string>
+    <string name="number_three">3</string>
+    <string name="number_six">6</string>
+    <string name="number_nne">9</string>
+    <string name="nogte_icon">.</string>
+    <string name="number_two">2</string>
+    <string name="number_five">5</string>
+    <string name="number_eight">8</string>
+    <string name="zero_number">0</string>
+    <string name="one_number">1</string>
+    <string name="number_four">4</string>
+    <string name="seven_number">7</string>
+    <string name="bagimande_icon">%</string>
+    <string name="plus_minus">+/-</string>
+    <string name="Ac">AC</string>
+    <string name="show_number">35+25-6</string>
+    <string name="result_number">54</string>
+</resources>
